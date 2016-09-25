@@ -1,5 +1,5 @@
 # Homework list
-- [x] Exercise_02
+- [x] [Exercise_02:](br)
 - [ ] Exercise_03
 - [ ] Exercise_04
 - [ ] Exercise_05
